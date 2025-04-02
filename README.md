@@ -19,6 +19,6 @@ Application checks for information relevant to the question and summarizes and a
 Ask a question in the input field and wait for a response
 
 ## Terms & Conditions
-Please do not misue the application features and ensure that questions are asked responsibly. This is a testing version and I am not responsible for any loss or damage not any wrong usage.
+Please do not misue the application features and ensure that questions are asked responsibly. This is a testing version and I am not responsible for any loss or damage nor any wrong usage.
 
 Updated: 04/01/2025
