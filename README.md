@@ -1,7 +1,7 @@
 # askai
 This is a sample application that can summarize any content asked.
 
-# Pre requisistes
+## Pre requisistes
 Install the node and npm packages
 
 # Getting Started
